@@ -1,4 +1,5 @@
 # first_project
 this is a project on image processing...
-you will be given a video of a video game.. and you have to detect the ball and predicts its trajectory..
+you will be given a video of a video game where two players are playing the game.. 
+our job is to detect the ball and predicts its trajectory..
 
